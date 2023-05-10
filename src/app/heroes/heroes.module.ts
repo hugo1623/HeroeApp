@@ -10,8 +10,6 @@ import { ListPageComponent } from './pages/list-page/list-page.component';
 import { NewPageComponent } from './pages/new-page/new-page.component';
 import { SearchPageComponent } from './pages/search-page/search-page.component';
 
-
-
 @NgModule({
   declarations: [
     HeroPageComponent,
